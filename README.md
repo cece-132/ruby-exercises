@@ -111,3 +111,6 @@ If you want to view the instructions in your web browser, you can view them here
 
 
 ----------------------------------
+
+## Reflection
+Loved this exercise. Definitely helpful for trying to understand all the nuances of the workflow of how to solve for issues using testing as the guiding force.
